@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/armandos/static/css/main.8cbddc3d.chunk.css",
-    "main.js": "/armandos/static/js/main.c2f1b4f3.chunk.js",
-    "main.js.map": "/armandos/static/js/main.c2f1b4f3.chunk.js.map",
-    "runtime-main.js": "/armandos/static/js/runtime-main.b0390eed.js",
-    "runtime-main.js.map": "/armandos/static/js/runtime-main.b0390eed.js.map",
-    "static/js/2.fa0ffaac.chunk.js": "/armandos/static/js/2.fa0ffaac.chunk.js",
-    "static/js/2.fa0ffaac.chunk.js.map": "/armandos/static/js/2.fa0ffaac.chunk.js.map",
-    "index.html": "/armandos/index.html",
-    "precache-manifest.628666e1f9bcd31dea81d4f2e97e16e7.js": "/armandos/precache-manifest.628666e1f9bcd31dea81d4f2e97e16e7.js",
-    "service-worker.js": "/armandos/service-worker.js",
-    "static/css/main.8cbddc3d.chunk.css.map": "/armandos/static/css/main.8cbddc3d.chunk.css.map",
-    "static/js/2.fa0ffaac.chunk.js.LICENSE.txt": "/armandos/static/js/2.fa0ffaac.chunk.js.LICENSE.txt",
-    "static/media/page1.jpg": "/armandos/static/media/page1.3c684f25.jpg",
-    "static/media/page2.jpg": "/armandos/static/media/page2.6bb86df5.jpg"
+    "main.css": "/armandorestaurant/static/css/main.8cbddc3d.chunk.css",
+    "main.js": "/armandorestaurant/static/js/main.6b2eaee0.chunk.js",
+    "main.js.map": "/armandorestaurant/static/js/main.6b2eaee0.chunk.js.map",
+    "runtime-main.js": "/armandorestaurant/static/js/runtime-main.5f7f4497.js",
+    "runtime-main.js.map": "/armandorestaurant/static/js/runtime-main.5f7f4497.js.map",
+    "static/js/2.fa0ffaac.chunk.js": "/armandorestaurant/static/js/2.fa0ffaac.chunk.js",
+    "static/js/2.fa0ffaac.chunk.js.map": "/armandorestaurant/static/js/2.fa0ffaac.chunk.js.map",
+    "index.html": "/armandorestaurant/index.html",
+    "precache-manifest.2f7e8c2c0f97224744d5b5e29ec0b4aa.js": "/armandorestaurant/precache-manifest.2f7e8c2c0f97224744d5b5e29ec0b4aa.js",
+    "service-worker.js": "/armandorestaurant/service-worker.js",
+    "static/css/main.8cbddc3d.chunk.css.map": "/armandorestaurant/static/css/main.8cbddc3d.chunk.css.map",
+    "static/js/2.fa0ffaac.chunk.js.LICENSE.txt": "/armandorestaurant/static/js/2.fa0ffaac.chunk.js.LICENSE.txt",
+    "static/media/page1.jpg": "/armandorestaurant/static/media/page1.3c684f25.jpg",
+    "static/media/page2.jpg": "/armandorestaurant/static/media/page2.6bb86df5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0390eed.js",
+    "static/js/runtime-main.5f7f4497.js",
     "static/js/2.fa0ffaac.chunk.js",
     "static/css/main.8cbddc3d.chunk.css",
-    "static/js/main.c2f1b4f3.chunk.js"
+    "static/js/main.6b2eaee0.chunk.js"
   ]
 }
