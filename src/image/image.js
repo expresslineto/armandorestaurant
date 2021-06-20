@@ -1,6 +1,6 @@
 
-import page1 from "./armandos/page1.jpg";
-import page2 from "./armandos/page2.jpg";
+import page1 from "./armandos/armandos san jose - v5_page 1.jpg";
+import page2 from "./armandos/armandos san jose - v5_page 2.jpg";
 
 const listMenu = [
   {
